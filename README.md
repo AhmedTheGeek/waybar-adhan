@@ -2,6 +2,8 @@
 
 A minimalist Waybar module that displays time until the next Muslim prayer (adhan). Simple, lightweight, and easy to configure.
 
+<img width="583" height="58" alt="screenshot-2025-09-01_15-10-21" src="https://github.com/user-attachments/assets/fd596cb9-caaa-4009-a3bc-bc785281c90d" />
+
 ## Features
 
 - 🕌 Shows countdown to next prayer time
