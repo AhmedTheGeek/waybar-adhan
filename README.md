@@ -26,7 +26,7 @@ git clone https://github.com/AhmedTheGeek/waybar-adhan.git
 
 ```json
 "custom/adhan": {
-    "exec": "~/.config/waybar-adhan/waybar-prayer.sh",
+    "exec": "~/.config/waybar-adhan/waybar-adhan.sh",
     "return-type": "json",
     "interval": 60,
     "format": "{text}",
